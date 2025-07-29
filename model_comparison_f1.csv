@@ -1,0 +1,12 @@
+Target,Metric Used,Logistic Regression (avg F1),XGBoost (avg F1),Better Model
+Win Today,F1 (class 1),0.9729,0.9981, XGBoost
+Place Today,F1 (class 1),0.993,0.9987,XGBoost
+Unplace Today,F1 (class 1),0.993,0.9994,XGBoost
+WIN NEXT START,F1 (class 1),0.2473,0.0847,Logistic
+WIN 2nd START,F1 (class 1),0.1935,0.0233,Logistic
+WIN 3rd START,F1 (class 1),0.1907,0.0236,Logistic
+WIN 4th START,F1 (class 1),0.1904,0.0254,Logistic
+PLACE NEXT START,F1 (class 1),0.4942,0.293,Logistic
+PLACE 2nd START,F1 (class 1),0.4663,0.2456,Logistic
+PLACE 3rd START,F1 (class 1),0.4228,0.1611,Logistic
+PLACE 4th START,F1 (class 1),0.412,0.1607,Logistic
