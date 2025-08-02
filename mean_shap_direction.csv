@@ -1,0 +1,36 @@
+Feature,Mean SHAP Direction
+Presser Profile,0.0063940496
+Body weight doubt,0.0
+Conditioning run last start,0.0
+RECENCY 1-7,-0.0023688548
+RECENCY 30-37,-0.0032875447
+RECENCY 46-50,-0.0043180035
+Routes,-0.004709934
+RECENCY 38-45,-0.0049348157
+Middle Barrier,-0.005102017
+Proven Distance,-0.005484382
+DOWN CLASS,-0.0055938764
+RECENCY 8-15,-0.0069487253
+1st Up,-0.0073968545
+UP CLASS,-0.007900303
+2nd Up,-0.008422702
+Middle,-0.00936976
+4th Up,-0.009434706
+3rd Up,-0.010119246
+RECENCY 23-29,-0.012009927
+Body weight Optimal,-0.0129385
+Last Race Shorter Distance,-0.01366402
+Sprint,-0.014050389
+Proven Class,-0.0144323725
+Inside Barrier,-0.015127272
+Capable Distance,-0.01586878
+Proven Surface,-0.017044874
+RECENCY 16-22,-0.0171031
+Early Presser Profile,-0.020039964
+Capable Surface,-0.020131823
+Last Race Longer Distance,-0.021462558
+Capable Class,-0.02171374
+Outside Barrier,-0.030664723
+Early Profile,-0.030964088
+Sustain Profile,-0.075862564
+Lost 2 Length Last Furlong,-1.6031126

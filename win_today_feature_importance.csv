@@ -1,0 +1,36 @@
+Feature,Mean |SHAP|
+Lost 2 Length Last Furlong,2.2630084
+Sustain Profile,0.4888029
+Capable Surface,0.23062396
+Early Profile,0.15196477
+Outside Barrier,0.12880215
+Last Race Shorter Distance,0.11477138
+Body weight Optimal,0.10911521
+Middle Barrier,0.10617621
+Proven Surface,0.10297948
+Last Race Longer Distance,0.10220656
+Capable Class,0.09769034
+Proven Class,0.094545715
+Presser Profile,0.08831641
+Capable Distance,0.08389758
+Inside Barrier,0.082635984
+Sprint,0.07902693
+Proven Distance,0.07501625
+Middle,0.0729455
+RECENCY 23-29,0.07245295
+2nd Up,0.06984387
+RECENCY 8-15,0.06681644
+4th Up,0.06542092
+RECENCY 16-22,0.063769706
+Early Presser Profile,0.06295347
+3rd Up,0.061501406
+1st Up,0.05278025
+UP CLASS,0.040863812
+Routes,0.037235096
+RECENCY 38-45,0.036918215
+RECENCY 30-37,0.03453477
+DOWN CLASS,0.032834556
+RECENCY 46-50,0.017987844
+RECENCY 1-7,0.013934567
+Body weight doubt,0.0
+Conditioning run last start,0.0

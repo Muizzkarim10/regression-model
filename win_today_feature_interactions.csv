@@ -1,0 +1,596 @@
+Feature 1,Feature 2,Interaction Score
+Sustain Profile,Lost 2 Length Last Furlong,0.12049669
+Capable Surface,Lost 2 Length Last Furlong,0.053329606
+Middle Barrier,Sustain Profile,0.046594705
+Outside Barrier,Capable Surface,0.04632743
+Capable Distance,Capable Surface,0.038666524
+Early Profile,Proven Surface,0.038402118
+Capable Distance,Last Race Shorter Distance,0.03833591
+Early Profile,Sustain Profile,0.037938666
+Sustain Profile,Capable Class,0.036110915
+Sprint,Last Race Shorter Distance,0.03564664
+Body weight Optimal,Proven Class,0.035311624
+Early Profile,Lost 2 Length Last Furlong,0.035006993
+Outside Barrier,Last Race Longer Distance,0.034343205
+Proven Surface,Capable Distance,0.032995176
+Proven Surface,Capable Class,0.03297009
+Proven Class,Proven Distance,0.02970939
+Outside Barrier,2nd Up,0.029344771
+Sustain Profile,Capable Distance,0.02911572
+Body weight Optimal,Capable Class,0.028296784
+Middle,Middle Barrier,0.02809286
+Outside Barrier,Sustain Profile,0.02612222
+4th Up,Proven Distance,0.026042176
+Middle Barrier,Proven Surface,0.02571079
+Proven Class,Proven Surface,0.02534081
+Presser Profile,Proven Surface,0.025330849
+Inside Barrier,Sustain Profile,0.025109805
+Proven Class,Capable Surface,0.025103489
+4th Up,Proven Class,0.024681743
+Capable Surface,RECENCY 16-22,0.02447311
+Capable Class,Capable Surface,0.024446955
+2nd Up,Capable Surface,0.024169771
+Body weight Optimal,Last Race Shorter Distance,0.024025336
+Middle Barrier,Capable Surface,0.023543892
+Outside Barrier,Capable Distance,0.023037896
+Body weight Optimal,RECENCY 23-29,0.022239247
+Inside Barrier,Capable Surface,0.02219523
+Early Presser Profile,Body weight Optimal,0.022083763
+Sustain Profile,Capable Surface,0.021794451
+Presser Profile,Sustain Profile,0.021618655
+Body weight Optimal,Proven Surface,0.02131315
+Capable Surface,Last Race Longer Distance,0.021087319
+Sustain Profile,Last Race Longer Distance,0.020971049
+1st Up,Proven Distance,0.020969741
+Proven Distance,Capable Class,0.020700667
+Capable Class,UP CLASS,0.020660892
+Middle Barrier,RECENCY 23-29,0.020648744
+3rd Up,Proven Surface,0.020459305
+Sustain Profile,Proven Distance,0.020167926
+Proven Class,RECENCY 16-22,0.020116886
+Proven Surface,UP CLASS,0.02009002
+Sustain Profile,Proven Class,0.020065365
+4th Up,RECENCY 23-29,0.019917097
+Middle Barrier,Capable Distance,0.019767148
+Outside Barrier,Last Race Shorter Distance,0.019735578
+Early Presser Profile,Capable Surface,0.019613126
+Proven Surface,RECENCY 16-22,0.019530885
+Sustain Profile,Body weight Optimal,0.01945575
+2nd Up,RECENCY 23-29,0.018923545
+4th Up,Capable Class,0.018748181
+Outside Barrier,Presser Profile,0.018686503
+Proven Distance,Proven Surface,0.018529866
+Outside Barrier,Body weight Optimal,0.018462319
+Outside Barrier,RECENCY 16-22,0.018353065
+Middle,Sustain Profile,0.018229503
+Middle,Outside Barrier,0.018023673
+Early Presser Profile,Capable Class,0.01799352
+2nd Up,Proven Surface,0.01788169
+Early Profile,Capable Surface,0.017749544
+2nd Up,Last Race Shorter Distance,0.01772749
+Middle Barrier,Proven Distance,0.01770799
+RECENCY 23-29,Last Race Shorter Distance,0.017663032
+Sprint,Body weight Optimal,0.017596576
+Capable Distance,RECENCY 16-22,0.017588282
+Sprint,Sustain Profile,0.017188862
+Capable Surface,Last Race Shorter Distance,0.017183203
+Proven Surface,Last Race Longer Distance,0.017147548
+Presser Profile,Lost 2 Length Last Furlong,0.016995138
+Middle Barrier,3rd Up,0.016979491
+Inside Barrier,Capable Distance,0.016778529
+Sprint,Capable Class,0.016775357
+Proven Surface,RECENCY 30-37,0.016545378
+Proven Class,Capable Distance,0.016539382
+Sprint,Early Profile,0.016501796
+Proven Surface,RECENCY 23-29,0.016383087
+Middle Barrier,RECENCY 16-22,0.016301984
+Middle Barrier,Proven Class,0.016277118
+Inside Barrier,Proven Surface,0.016226523
+Middle,Capable Surface,0.016006064
+Body weight Optimal,Proven Distance,0.015897484
+Middle Barrier,Last Race Longer Distance,0.015826322
+Middle,Proven Distance,0.015748883
+Body weight Optimal,Capable Surface,0.015740689
+Early Presser Profile,Sustain Profile,0.015738377
+Middle,Body weight Optimal,0.015734052
+Sustain Profile,1st Up,0.015590939
+Early Presser Profile,Capable Distance,0.015529169
+Outside Barrier,Early Profile,0.015496417
+Sprint,4th Up,0.015406379
+Proven Class,Last Race Longer Distance,0.015266104
+Middle Barrier,Last Race Shorter Distance,0.015158849
+Inside Barrier,3rd Up,0.0150398025
+Capable Class,Capable Distance,0.015021365
+Middle,2nd Up,0.014793133
+Early Profile,2nd Up,0.014732071
+Middle,Last Race Shorter Distance,0.01472975
+Capable Class,Last Race Longer Distance,0.014453998
+Outside Barrier,Lost 2 Length Last Furlong,0.014347011
+Early Presser Profile,Proven Class,0.014320901
+Inside Barrier,Body weight Optimal,0.014312873
+Inside Barrier,Early Profile,0.014253403
+Presser Profile,Capable Distance,0.014242408
+Outside Barrier,3rd Up,0.0142305475
+Body weight Optimal,RECENCY 16-22,0.014227948
+RECENCY 16-22,Last Race Shorter Distance,0.0141682755
+Sprint,Capable Distance,0.014149141
+Presser Profile,Body weight Optimal,0.014120316
+Capable Class,Last Race Shorter Distance,0.014115317
+Sprint,Proven Surface,0.014094852
+Sustain Profile,Proven Surface,0.014081749
+Middle,Proven Class,0.0140305245
+Capable Class,RECENCY 38-45,0.013992738
+Presser Profile,Capable Class,0.013842878
+Middle Barrier,Body weight Optimal,0.013778061
+Lost 2 Length Last Furlong,Last Race Longer Distance,0.013776103
+Outside Barrier,Proven Class,0.013709881
+Presser Profile,Capable Surface,0.013652747
+Body weight Optimal,1st Up,0.013635914
+3rd Up,Proven Distance,0.013533274
+RECENCY 8-15,Last Race Longer Distance,0.013515098
+4th Up,Proven Surface,0.013384271
+1st Up,Last Race Shorter Distance,0.013331005
+Early Profile,3rd Up,0.013216178
+Body weight Optimal,Capable Distance,0.013188587
+Routes,1st Up,0.0131496675
+Presser Profile,Proven Class,0.01304939
+Capable Distance,RECENCY 23-29,0.01290381
+Inside Barrier,Last Race Longer Distance,0.012810941
+Sprint,Capable Surface,0.012763224
+Middle Barrier,Outside Barrier,0.012733116
+Proven Surface,Capable Surface,0.012638643
+Sustain Profile,RECENCY 38-45,0.012491496
+Sprint,Proven Class,0.012471798
+Sustain Profile,3rd Up,0.012386769
+Sprint,Outside Barrier,0.012357058
+Middle Barrier,Lost 2 Length Last Furlong,0.01235634
+Outside Barrier,1st Up,0.012293486
+Early Presser Profile,Lost 2 Length Last Furlong,0.012274779
+2nd Up,RECENCY 30-37,0.012177271
+Early Profile,Capable Class,0.012174893
+Early Profile,Proven Class,0.0121600935
+Inside Barrier,1st Up,0.012105547
+Middle Barrier,Early Profile,0.012082777
+Middle,RECENCY 16-22,0.012055528
+Early Profile,RECENCY 23-29,0.012023927
+Capable Class,RECENCY 23-29,0.011894987
+Sustain Profile,Last Race Shorter Distance,0.01175254
+Middle Barrier,Capable Class,0.011729454
+Middle,Proven Surface,0.011663533
+Middle Barrier,RECENCY 1-7,0.011528542
+Proven Class,Last Race Shorter Distance,0.011511867
+Proven Surface,RECENCY 8-15,0.011483039
+Presser Profile,2nd Up,0.011333195
+Middle,Capable Class,0.011251176
+Presser Profile,Last Race Shorter Distance,0.011217897
+Body weight Optimal,Lost 2 Length Last Furlong,0.011059833
+Sustain Profile,RECENCY 16-22,0.010974531
+Inside Barrier,Proven Class,0.010955471
+Outside Barrier,4th Up,0.010884431
+Inside Barrier,4th Up,0.0107631115
+3rd Up,Capable Distance,0.010706136
+Sustain Profile,RECENCY 8-15,0.01067119
+Routes,RECENCY 16-22,0.010617946
+4th Up,Capable Distance,0.010519225
+Early Presser Profile,Proven Distance,0.010484458
+Early Profile,UP CLASS,0.010427039
+Routes,RECENCY 23-29,0.010409805
+Body weight Optimal,RECENCY 8-15,0.010408962
+Body weight Optimal,3rd Up,0.010281264
+Inside Barrier,Capable Class,0.010274993
+Sprint,RECENCY 16-22,0.010190685
+Outside Barrier,Proven Distance,0.0101499045
+Presser Profile,RECENCY 16-22,0.010096262
+Inside Barrier,Proven Distance,0.010087241
+3rd Up,RECENCY 23-29,0.010073535
+DOWN CLASS,Last Race Longer Distance,0.009949884
+Middle,RECENCY 30-37,0.009926462
+Lost 2 Length Last Furlong,Last Race Shorter Distance,0.009910416
+Outside Barrier,RECENCY 23-29,0.009884736
+Outside Barrier,RECENCY 38-45,0.0098621175
+3rd Up,Capable Class,0.009830963
+Body weight Optimal,4th Up,0.009825831
+4th Up,Last Race Longer Distance,0.009808644
+Sustain Profile,RECENCY 23-29,0.009768045
+Capable Surface,RECENCY 8-15,0.009753775
+Presser Profile,3rd Up,0.009647023
+Middle,3rd Up,0.009645519
+RECENCY 8-15,Last Race Shorter Distance,0.009635647
+Body weight Optimal,Last Race Longer Distance,0.009633076
+4th Up,Capable Surface,0.009622913
+Early Presser Profile,1st Up,0.009580648
+Outside Barrier,Early Presser Profile,0.009557643
+RECENCY 16-22,Last Race Longer Distance,0.0095561845
+Sprint,Proven Distance,0.0095521305
+Inside Barrier,Lost 2 Length Last Furlong,0.009551979
+Proven Distance,RECENCY 23-29,0.009506628
+RECENCY 8-15,Lost 2 Length Last Furlong,0.009467267
+Inside Barrier,Middle Barrier,0.009464001
+1st Up,Capable Surface,0.009317376
+Proven Class,RECENCY 23-29,0.009310936
+Proven Class,Capable Class,0.009303355
+Middle Barrier,Presser Profile,0.009286334
+Routes,Middle Barrier,0.009277006
+Sprint,Last Race Longer Distance,0.009263434
+Capable Surface,RECENCY 23-29,0.009253016
+Body weight Optimal,2nd Up,0.009250185
+Proven Surface,Last Race Shorter Distance,0.009217341
+Early Profile,Last Race Shorter Distance,0.009190377
+Proven Distance,RECENCY 30-37,0.009083126
+Capable Distance,Last Race Longer Distance,0.009001921
+Presser Profile,Last Race Longer Distance,0.0089554265
+Proven Distance,Capable Distance,0.008953042
+3rd Up,Proven Class,0.008943556
+Proven Distance,Last Race Longer Distance,0.008942597
+Capable Surface,DOWN CLASS,0.008936701
+2nd Up,RECENCY 8-15,0.008927867
+1st Up,DOWN CLASS,0.0088888565
+Inside Barrier,RECENCY 23-29,0.008886565
+Middle Barrier,RECENCY 30-37,0.008882434
+Early Profile,4th Up,0.008848449
+3rd Up,Last Race Shorter Distance,0.0087947035
+Inside Barrier,RECENCY 16-22,0.008792926
+Capable Surface,RECENCY 30-37,0.008759793
+Sprint,Inside Barrier,0.008716482
+2nd Up,UP CLASS,0.0086828135
+Early Profile,Body weight Optimal,0.008671547
+2nd Up,Proven Class,0.008607971
+Middle,RECENCY 23-29,0.00858763
+Proven Distance,Capable Surface,0.008581948
+2nd Up,Last Race Longer Distance,0.008577869
+Inside Barrier,Presser Profile,0.0085720355
+Middle,Inside Barrier,0.0085589085
+DOWN CLASS,Last Race Shorter Distance,0.008535814
+Inside Barrier,Early Presser Profile,0.008518961
+Inside Barrier,Last Race Shorter Distance,0.008486942
+Sprint,2nd Up,0.008483559
+Early Profile,Early Presser Profile,0.008473913
+Sprint,Middle Barrier,0.008335766
+Outside Barrier,Capable Class,0.00829195
+Middle Barrier,2nd Up,0.00827703
+Sprint,Lost 2 Length Last Furlong,0.008258587
+Middle,Early Profile,0.008208352
+3rd Up,RECENCY 16-22,0.00820091
+Proven Distance,RECENCY 16-22,0.008179644
+Middle Barrier,4th Up,0.008145386
+Middle,1st Up,0.008110779
+Capable Class,DOWN CLASS,0.008075128
+Sprint,Presser Profile,0.008072247
+Sprint,Early Presser Profile,0.007984762
+2nd Up,Capable Class,0.007967433
+Outside Barrier,UP CLASS,0.007964854
+Outside Barrier,DOWN CLASS,0.007935254
+Middle Barrier,RECENCY 8-15,0.0079001635
+Early Presser Profile,RECENCY 16-22,0.007864469
+1st Up,Proven Class,0.007827632
+Presser Profile,Proven Distance,0.0078040655
+Body weight Optimal,RECENCY 30-37,0.0077916267
+1st Up,Last Race Longer Distance,0.007752226
+Early Profile,Capable Distance,0.0076611787
+Proven Distance,Last Race Shorter Distance,0.007637601
+Routes,Proven Surface,0.0075981463
+Routes,Presser Profile,0.007479475
+4th Up,Last Race Shorter Distance,0.007460961
+Early Presser Profile,Last Race Shorter Distance,0.0074469564
+2nd Up,RECENCY 16-22,0.007413231
+Routes,4th Up,0.0073989797
+Routes,Early Profile,0.0073930398
+Proven Distance,DOWN CLASS,0.007360323
+Early Profile,Proven Distance,0.007343089
+Middle,RECENCY 8-15,0.007270653
+Outside Barrier,Proven Surface,0.0072497036
+Proven Class,RECENCY 30-37,0.0071706236
+Body weight Optimal,DOWN CLASS,0.007146313
+2nd Up,Capable Distance,0.0071437666
+Middle,Early Presser Profile,0.0071158363
+Capable Class,RECENCY 16-22,0.0071058404
+Early Profile,RECENCY 16-22,0.0070817014
+Capable Distance,RECENCY 38-45,0.007062949
+Early Profile,RECENCY 30-37,0.006982593
+Sprint,3rd Up,0.00697285
+1st Up,Proven Surface,0.006929349
+Routes,Body weight Optimal,0.0069152927
+Early Presser Profile,Proven Surface,0.0069100875
+Sustain Profile,UP CLASS,0.006893013
+Presser Profile,RECENCY 30-37,0.006865412
+Proven Distance,RECENCY 8-15,0.0068605626
+Early Profile,RECENCY 8-15,0.006860131
+Inside Barrier,RECENCY 8-15,0.006806988
+Middle,Last Race Longer Distance,0.0067440965
+Sustain Profile,4th Up,0.0066464506
+4th Up,RECENCY 16-22,0.006600564
+1st Up,Capable Distance,0.006565612
+Presser Profile,RECENCY 23-29,0.0064942283
+Capable Distance,DOWN CLASS,0.00643627
+Inside Barrier,Outside Barrier,0.0064320266
+Proven Surface,Lost 2 Length Last Furlong,0.006349675
+Outside Barrier,RECENCY 8-15,0.0062183407
+Middle Barrier,1st Up,0.0062054675
+4th Up,RECENCY 8-15,0.006201484
+Capable Class,RECENCY 8-15,0.00616285
+Sprint,RECENCY 23-29,0.0061593316
+Presser Profile,RECENCY 8-15,0.0061438847
+Outside Barrier,RECENCY 30-37,0.006095584
+Routes,Early Presser Profile,0.006059987
+Inside Barrier,2nd Up,0.0060081603
+Presser Profile,1st Up,0.0060042385
+Middle,Lost 2 Length Last Furlong,0.005988017
+Middle,UP CLASS,0.005946309
+Middle Barrier,Early Presser Profile,0.0059407367
+RECENCY 30-37,Last Race Shorter Distance,0.005914387
+Capable Distance,RECENCY 8-15,0.005824629
+Proven Class,Lost 2 Length Last Furlong,0.005779758
+3rd Up,Capable Surface,0.005737783
+Capable Class,Lost 2 Length Last Furlong,0.005716378
+Early Profile,Last Race Longer Distance,0.00570642
+UP CLASS,Last Race Longer Distance,0.00570452
+Sprint,RECENCY 8-15,0.0056948196
+Middle,Presser Profile,0.00561566
+Presser Profile,RECENCY 38-45,0.0056142793
+Capable Distance,Lost 2 Length Last Furlong,0.0056040804
+4th Up,DOWN CLASS,0.0055329776
+2nd Up,Proven Distance,0.005518267
+3rd Up,Last Race Longer Distance,0.005513574
+1st Up,Capable Class,0.005442943
+Presser Profile,UP CLASS,0.0054389914
+Early Presser Profile,RECENCY 30-37,0.0053330725
+Inside Barrier,RECENCY 38-45,0.0053319265
+Routes,Capable Surface,0.005313726
+2nd Up,Lost 2 Length Last Furlong,0.005288007
+Early Presser Profile,2nd Up,0.0052480986
+Early Presser Profile,RECENCY 8-15,0.0052432884
+3rd Up,RECENCY 8-15,0.0052280976
+Early Profile,Presser Profile,0.0051827785
+Proven Class,DOWN CLASS,0.005169821
+Outside Barrier,RECENCY 46-50,0.0051640933
+RECENCY 16-22,Lost 2 Length Last Furlong,0.005161249
+Middle,Capable Distance,0.005156782
+Sustain Profile,RECENCY 30-37,0.0051548956
+Sprint,1st Up,0.0051462413
+1st Up,RECENCY 38-45,0.005109943
+RECENCY 16-22,DOWN CLASS,0.0050997413
+Routes,Capable Distance,0.0050915056
+Proven Surface,RECENCY 38-45,0.005048301
+Early Presser Profile,Last Race Longer Distance,0.0050464408
+Proven Distance,RECENCY 1-7,0.0049993168
+Proven Class,RECENCY 8-15,0.0049808808
+Sustain Profile,DOWN CLASS,0.0049804472
+RECENCY 23-29,Lost 2 Length Last Furlong,0.004969331
+3rd Up,UP CLASS,0.004969002
+RECENCY 23-29,Last Race Longer Distance,0.0049022324
+Sustain Profile,RECENCY 46-50,0.0048988685
+Body weight Optimal,RECENCY 38-45,0.004774351
+Sprint,Middle,0.004751305
+Middle,4th Up,0.0047294977
+Proven Distance,Lost 2 Length Last Furlong,0.00472364
+Routes,Proven Distance,0.004705548
+Inside Barrier,UP CLASS,0.004696022
+RECENCY 16-22,UP CLASS,0.004633022
+Sustain Profile,2nd Up,0.004599208
+Body weight Optimal,UP CLASS,0.0045631756
+Routes,Proven Class,0.0044614146
+RECENCY 8-15,DOWN CLASS,0.0044185156
+Middle Barrier,UP CLASS,0.0042866487
+Early Profile,RECENCY 38-45,0.0042445245
+3rd Up,Lost 2 Length Last Furlong,0.0042331396
+Capable Surface,RECENCY 38-45,0.0042239274
+Proven Class,RECENCY 38-45,0.004221962
+Routes,RECENCY 38-45,0.004210098
+Presser Profile,4th Up,0.0042090965
+Early Profile,1st Up,0.0041694883
+RECENCY 16-22,RECENCY 23-29,0.0041017355
+Routes,Sustain Profile,0.0040519726
+4th Up,Lost 2 Length Last Furlong,0.0040493654
+Early Presser Profile,3rd Up,0.004036776
+Middle,RECENCY 38-45,0.0040133093
+Sprint,UP CLASS,0.0040036393
+Capable Class,RECENCY 30-37,0.003992508
+4th Up,RECENCY 30-37,0.0039572525
+Routes,Last Race Shorter Distance,0.003947948
+2nd Up,DOWN CLASS,0.00394479
+1st Up,Lost 2 Length Last Furlong,0.0039219027
+Early Presser Profile,4th Up,0.0039216946
+Routes,Last Race Longer Distance,0.003884943
+RECENCY 38-45,Last Race Shorter Distance,0.0038769946
+Routes,RECENCY 8-15,0.0038766079
+Early Profile,DOWN CLASS,0.0038270538
+Body weight Optimal,RECENCY 46-50,0.003678777
+DOWN CLASS,Lost 2 Length Last Furlong,0.003633717
+Sprint,RECENCY 30-37,0.003573695
+RECENCY 23-29,UP CLASS,0.0035536364
+RECENCY 23-29,DOWN CLASS,0.0035504126
+Capable Distance,RECENCY 30-37,0.0035047547
+Proven Distance,RECENCY 38-45,0.0034765326
+RECENCY 38-45,DOWN CLASS,0.003377747
+Early Presser Profile,RECENCY 23-29,0.003321277
+Proven Distance,RECENCY 46-50,0.003319947
+RECENCY 30-37,DOWN CLASS,0.0032973727
+Proven Distance,UP CLASS,0.0032906584
+4th Up,UP CLASS,0.0032861389
+Early Presser Profile,RECENCY 38-45,0.0032279098
+Routes,3rd Up,0.0031653529
+Middle,DOWN CLASS,0.0031443797
+Routes,Inside Barrier,0.0031408616
+RECENCY 38-45,Lost 2 Length Last Furlong,0.0031367731
+Inside Barrier,DOWN CLASS,0.003077678
+Presser Profile,DOWN CLASS,0.003059478
+Routes,Capable Class,0.0030450365
+1st Up,RECENCY 16-22,0.0030358902
+Proven Class,UP CLASS,0.0030349595
+Capable Surface,RECENCY 46-50,0.0030193797
+UP CLASS,Lost 2 Length Last Furlong,0.00301301
+Sprint,RECENCY 38-45,0.0029567452
+UP CLASS,Last Race Shorter Distance,0.0029512844
+Outside Barrier,RECENCY 1-7,0.0029157521
+Middle Barrier,DOWN CLASS,0.0028860995
+Routes,Outside Barrier,0.0028791016
+Last Race Longer Distance,Last Race Shorter Distance,0.002870107
+Proven Class,RECENCY 1-7,0.0028514958
+Proven Surface,DOWN CLASS,0.002803568
+RECENCY 30-37,Lost 2 Length Last Furlong,0.002749536
+Routes,UP CLASS,0.0026493692
+RECENCY 1-7,Last Race Longer Distance,0.0026304135
+RECENCY 8-15,UP CLASS,0.0026231168
+Sprint,DOWN CLASS,0.0025744808
+RECENCY 46-50,DOWN CLASS,0.0025708857
+Inside Barrier,RECENCY 30-37,0.002520225
+1st Up,RECENCY 23-29,0.002397162
+2nd Up,RECENCY 1-7,0.0023559039
+RECENCY 46-50,Lost 2 Length Last Furlong,0.0023342334
+2nd Up,3rd Up,0.002287756
+RECENCY 8-15,RECENCY 23-29,0.0022802942
+RECENCY 1-7,Last Race Shorter Distance,0.002277444
+RECENCY 38-45,Last Race Longer Distance,0.002218642
+Middle,RECENCY 46-50,0.0022001087
+RECENCY 30-37,UP CLASS,0.0021737593
+Routes,Lost 2 Length Last Furlong,0.0021583228
+Inside Barrier,RECENCY 1-7,0.0020446202
+Routes,RECENCY 30-37,0.0020419045
+Sustain Profile,RECENCY 1-7,0.0019768458
+Capable Surface,UP CLASS,0.0019410329
+3rd Up,RECENCY 30-37,0.0019151114
+Capable Distance,UP CLASS,0.0019126078
+RECENCY 30-37,Last Race Longer Distance,0.0019022455
+Capable Distance,RECENCY 46-50,0.001889259
+Routes,2nd Up,0.0018163205
+Early Presser Profile,UP CLASS,0.0017948352
+3rd Up,RECENCY 1-7,0.0017649552
+2nd Up,4th Up,0.0017299909
+3rd Up,DOWN CLASS,0.0016789046
+Sprint,RECENCY 1-7,0.0016163945
+Early Presser Profile,DOWN CLASS,0.0016025138
+Middle Barrier,RECENCY 46-50,0.0015697449
+Proven Surface,RECENCY 1-7,0.0015399122
+Middle Barrier,RECENCY 38-45,0.0015198818
+Presser Profile,RECENCY 1-7,0.001493989
+1st Up,4th Up,0.0014244217
+RECENCY 1-7,Lost 2 Length Last Furlong,0.0012651617
+4th Up,RECENCY 38-45,0.0012545534
+1st Up,3rd Up,0.001252873
+RECENCY 8-15,RECENCY 16-22,0.0012148548
+Capable Distance,RECENCY 1-7,0.0012148309
+Early Presser Profile,Presser Profile,0.0011836671
+Capable Surface,RECENCY 1-7,0.0011105215
+2nd Up,RECENCY 38-45,0.0010943623
+Capable Class,RECENCY 1-7,0.0010627012
+RECENCY 16-22,RECENCY 30-37,0.0010491724
+Sprint,RECENCY 46-50,0.0010478066
+Middle,RECENCY 1-7,0.0010449985
+1st Up,UP CLASS,0.0010001821
+RECENCY 23-29,RECENCY 30-37,0.00096437155
+1st Up,2nd Up,0.0009451291
+4th Up,RECENCY 1-7,0.0009421138
+RECENCY 38-45,UP CLASS,0.0009403518
+Proven Class,RECENCY 46-50,0.0009336414
+Proven Surface,RECENCY 46-50,0.00087451935
+1st Up,RECENCY 46-50,0.0008702733
+Body weight Optimal,RECENCY 1-7,0.000866107
+Early Presser Profile,RECENCY 1-7,0.00084201153
+Routes,DOWN CLASS,0.0007848057
+1st Up,RECENCY 8-15,0.00078192714
+3rd Up,4th Up,0.00071767165
+Early Profile,RECENCY 46-50,0.0006447785
+Presser Profile,RECENCY 46-50,0.000635302
+Early Profile,RECENCY 1-7,0.0006352459
+Routes,RECENCY 1-7,0.0006348488
+3rd Up,RECENCY 38-45,0.00062781316
+RECENCY 8-15,RECENCY 30-37,0.0005828788
+RECENCY 46-50,Last Race Longer Distance,0.000537871
+1st Up,RECENCY 30-37,0.0005211384
+RECENCY 23-29,RECENCY 38-45,0.00051170593
+Sprint,Routes,0.0004921876
+RECENCY 30-37,RECENCY 38-45,0.00043526807
+Capable Class,RECENCY 46-50,0.00040933344
+RECENCY 8-15,RECENCY 38-45,0.00033461375
+RECENCY 16-22,RECENCY 38-45,0.00032471342
+RECENCY 1-7,UP CLASS,0.00029424886
+2nd Up,RECENCY 46-50,0.00028096646
+RECENCY 46-50,Last Race Shorter Distance,0.00026806095
+UP CLASS,DOWN CLASS,0.0002617166
+RECENCY 1-7,RECENCY 23-29,0.0002551262
+RECENCY 1-7,RECENCY 16-22,0.00023793142
+RECENCY 1-7,RECENCY 8-15,0.00020828725
+RECENCY 23-29,RECENCY 46-50,0.00019492177
+RECENCY 1-7,DOWN CLASS,0.00018892121
+1st Up,RECENCY 1-7,0.00018340732
+Inside Barrier,RECENCY 46-50,0.0001581956
+4th Up,RECENCY 46-50,0.00015713918
+RECENCY 8-15,RECENCY 46-50,0.00014323732
+Routes,RECENCY 46-50,0.00014280775
+RECENCY 16-22,RECENCY 46-50,0.00014119365
+3rd Up,RECENCY 46-50,0.00013890557
+RECENCY 1-7,RECENCY 30-37,0.00012894618
+Early Presser Profile,RECENCY 46-50,0.00010924602
+RECENCY 46-50,UP CLASS,9.697392e-05
+RECENCY 30-37,RECENCY 46-50,6.8203786e-05
+RECENCY 1-7,RECENCY 38-45,6.3360116e-05
+RECENCY 38-45,RECENCY 46-50,5.6167446e-05
+RECENCY 1-7,RECENCY 46-50,8.62263e-06
+RECENCY 30-37,Conditioning run last start,0.0
+Sprint,Body weight doubt,0.0
+RECENCY 38-45,Conditioning run last start,0.0
+RECENCY 46-50,Conditioning run last start,0.0
+4th Up,Conditioning run last start,0.0
+3rd Up,Conditioning run last start,0.0
+Routes,Conditioning run last start,0.0
+2nd Up,Conditioning run last start,0.0
+Routes,Body weight doubt,0.0
+UP CLASS,Conditioning run last start,0.0
+Body weight doubt,Proven Distance,0.0
+Body weight doubt,Capable Class,0.0
+Capable Distance,Conditioning run last start,0.0
+Capable Class,Conditioning run last start,0.0
+Presser Profile,Conditioning run last start,0.0
+Sustain Profile,Body weight doubt,0.0
+Inside Barrier,Conditioning run last start,0.0
+Inside Barrier,Body weight doubt,0.0
+Sustain Profile,Conditioning run last start,0.0
+Body weight Optimal,Body weight doubt,0.0
+Body weight doubt,Capable Distance,0.0
+Body weight doubt,Conditioning run last start,0.0
+Body weight doubt,DOWN CLASS,0.0
+Body weight doubt,UP CLASS,0.0
+Body weight doubt,RECENCY 46-50,0.0
+Body weight doubt,RECENCY 38-45,0.0
+Body weight doubt,Last Race Longer Distance,0.0
+Body weight doubt,Last Race Shorter Distance,0.0
+Proven Distance,Conditioning run last start,0.0
+Middle,Conditioning run last start,0.0
+Body weight Optimal,Conditioning run last start,0.0
+Body weight doubt,1st Up,0.0
+Body weight doubt,2nd Up,0.0
+Body weight doubt,3rd Up,0.0
+Body weight doubt,4th Up,0.0
+Body weight doubt,Proven Class,0.0
+Body weight doubt,RECENCY 16-22,0.0
+Body weight doubt,RECENCY 8-15,0.0
+Proven Class,Conditioning run last start,0.0
+1st Up,Conditioning run last start,0.0
+Body weight doubt,RECENCY 30-37,0.0
+Body weight doubt,RECENCY 23-29,0.0
+Body weight doubt,Lost 2 Length Last Furlong,0.0
+Body weight doubt,Proven Surface,0.0
+Body weight doubt,Capable Surface,0.0
+Body weight doubt,RECENCY 1-7,0.0
+Middle,Routes,0.0
+Proven Surface,Conditioning run last start,0.0
+Middle,Body weight doubt,0.0
+Capable Surface,Conditioning run last start,0.0
+RECENCY 1-7,Conditioning run last start,0.0
+Middle Barrier,Conditioning run last start,0.0
+Early Presser Profile,Conditioning run last start,0.0
+RECENCY 8-15,Conditioning run last start,0.0
+Presser Profile,Body weight doubt,0.0
+Middle Barrier,Body weight doubt,0.0
+Early Presser Profile,Body weight doubt,0.0
+Early Profile,Conditioning run last start,0.0
+Sprint,Conditioning run last start,0.0
+Outside Barrier,Body weight doubt,0.0
+Early Profile,Body weight doubt,0.0
+Outside Barrier,Conditioning run last start,0.0
+RECENCY 16-22,Conditioning run last start,0.0
+Conditioning run last start,Lost 2 Length Last Furlong,0.0
+DOWN CLASS,Conditioning run last start,0.0
+Conditioning run last start,Last Race Shorter Distance,0.0
+Conditioning run last start,Last Race Longer Distance,0.0
+RECENCY 23-29,Conditioning run last start,0.0
